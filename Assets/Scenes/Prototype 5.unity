@@ -663,6 +663,7 @@ MonoBehaviour:
   - {fileID: 4496458740973342613, guid: 1150e546b39085e4d86c1d41b3b3d349, type: 3}
   - {fileID: 2543728949351610614, guid: 261a6eb8993e088468c85ce939b4dd0c, type: 3}
   scoreText: {fileID: 923424452}
+  gameOverText: {fileID: 1271128233}
 --- !u!4 &1141362566
 Transform:
   m_ObjectHideFlags: 0
@@ -694,7 +695,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1271128232
 RectTransform:
   m_ObjectHideFlags: 0
